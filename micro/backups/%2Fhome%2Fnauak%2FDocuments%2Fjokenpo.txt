@@ -1,0 +1,3 @@
+Força -> Técnica
+Técnica -> Velocidade
+Velocidade -> Força

@@ -1,0 +1,125 @@
+{
+    "cli_default_open_behavior": "existing_window",
+    "project_panel": {
+        "dock": "left",
+    },
+    "outline_panel": {
+        "dock": "left",
+    },
+    "collaboration_panel": {
+        "dock": "left",
+    },
+    "agent": {
+        "dock": "right",
+        "favorite_models": [],
+        "model_parameters": [],
+    },
+    "git_panel": {
+        "dock": "left",
+    },
+    "status_bar": {
+        "active_language_button": true,
+    },
+    "tabs": {
+        "git_status": true,
+    },
+    "title_bar": {
+        "show_branch_status_icon": true,
+        "show_user_picture": false,
+        "show_user_menu": true,
+        "show_sign_in": false,
+        "show_onboarding_banner": false,
+        "show_menus": false,
+    },
+    "toolbar": {
+        "breadcrumbs": false,
+        "code_actions": false,
+        "quick_actions": false,
+        "selections_menu": false,
+    },
+    "centered_layout": {
+        "left_padding": 0.05,
+        "right_padding": 0.05,
+    },
+    "scrollbar": {
+        "show": "never",
+    },
+    "autosave": {
+        "after_delay": {
+            "milliseconds": 1000,
+        },
+    },
+    "disable_ai": true,
+    "telemetry": {
+        "diagnostics": false,
+        "metrics": false,
+    },
+    "session": {
+        "trust_all_worktrees": true,
+    },
+
+    "buffer_font_family": "JetBrainsMono Nerd Font",
+    "buffer_font_size": 18,
+    "buffer_font_weight": 600,
+    "buffer_font_features": {
+        "calt": true,
+        "ss02": true,
+        "cv14": true,
+        "cv15": true,
+        "cv16": true,
+    },
+    "buffer_line_height": "standard",
+
+    "ui_font_family": "JetBrainsMono Nerd Font",
+    "ui_font_size": 18,
+    "ui_font_weight": 600,
+
+    "terminal": {
+        "font_family": "JetBrainsMono Nerd Font",
+        "font_weight": 600,
+        "font_size": 16,
+        "font_features": {
+            "calt": true,
+            "ss02": true,
+            "cv14": true,
+            "cv15": true,
+            "cv16": true,
+        },
+    },
+
+    "theme": "Zedokai Darker (Filter Spectrum)",
+    "icon_theme": "Monospace Icon Theme - Dark",
+
+    "show_whitespaces": "selection",
+
+    "tab_size": 4,
+    "languages": {
+        "C": {
+            "tab_size": 2,
+        },
+        "Make": {
+            "tab_size": 8,
+        },
+    },
+
+    "theme_overrides": {
+        "Zedokai Darker (Filter Spectrum)": {
+            "syntax": {
+                "comment": {
+                    "font_style": "italic",
+                    "font_weight": 700,
+                },
+                "comment.doc": {
+                    "font_style": "italic",
+                    "font_weight": 700,
+                },
+                "keyword": {
+                    "font_style": "italic",
+                },
+                "type": {
+                    "font_weight": 700,
+                },
+            },
+        },
+    },
+}
